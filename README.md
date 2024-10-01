@@ -16,6 +16,8 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
+![Vishal's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalverma9572&layout=compact&theme=tokyonight) 
+
 **Frontend**:  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
 
@@ -60,8 +62,9 @@
 
 ## 📈 GitHub Stats
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalverma9572&show_icons=true&theme=tokyonight)
-![Vishal's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vishalverma9572&theme=tokyonight)
+| ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalverma9572&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=600) | ![Vishal's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vishalverma9572&theme=tokyonight) |
+|:---:|:---:|
+
 
 ---
 
