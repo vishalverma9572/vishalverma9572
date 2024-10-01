@@ -17,10 +17,15 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 **Frontend**:  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
+
+
+**Backend**:  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
 
 **Database**:  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
