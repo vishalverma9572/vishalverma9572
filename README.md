@@ -54,7 +54,6 @@
 ## 💼 Experience & 🏆 Achievements
 
 - **JENESYS 2024 Scholar**: Selected for international collaboration and cultural exchange.
-- **Tech Lead - Fusion ERP Website**: Leading a team of 12 developers to build an automated ERP system for IIIT Jabalpur using React and Django.
 - **CodeChef**: 3-star rating (max rating 1711).
 
 
